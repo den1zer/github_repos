@@ -1,0 +1,37 @@
+C:\Den1zer\Коледж\OOP24\C++\LR1_3\bin\Debug\LR1_3.exe.config
+C:\Den1zer\Коледж\OOP24\C++\LR1_3\bin\Debug\LR1_3.exe
+C:\Den1zer\Коледж\OOP24\C++\LR1_3\bin\Debug\LR1_3.pdb
+C:\Den1zer\Коледж\OOP24\C++\LR1_3\obj\Debug\LR1_3.csproj.AssemblyReference.cache
+C:\Den1zer\Коледж\OOP24\C++\LR1_3\obj\Debug\LR1_3.Form1.resources
+C:\Den1zer\Коледж\OOP24\C++\LR1_3\obj\Debug\LR1_3.Properties.Resources.resources
+C:\Den1zer\Коледж\OOP24\C++\LR1_3\obj\Debug\LR1_3.csproj.GenerateResource.cache
+C:\Den1zer\Коледж\OOP24\C++\LR1_3\obj\Debug\LR1_3.csproj.CoreCompileInputs.cache
+C:\Den1zer\Коледж\OOP24\C++\LR1_3\obj\Debug\LR1_3.exe
+C:\Den1zer\Коледж\OOP24\C++\LR1_3\obj\Debug\LR1_3.pdb
+C:\Den1zer\College\OOP24\Project\Stock project\obj\Debug\LR1_3.csproj.AssemblyReference.cache
+C:\Den1zer\College\OOP24\Project\Stock project\obj\Debug\LR1_3.Form1.resources
+C:\Den1zer\College\OOP24\Project\Stock project\obj\Debug\LR1_3.Properties.Resources.resources
+C:\Den1zer\College\OOP24\Project\Stock project\obj\Debug\LR1_3.csproj.GenerateResource.cache
+C:\Den1zer\College\OOP24\Project\Stock project\obj\Debug\LR1_3.csproj.CoreCompileInputs.cache
+C:\Den1zer\College\OOP24\Project\Stock project\obj\Debug\LR1_3.exe
+C:\Den1zer\College\OOP24\Project\Stock project\obj\Debug\LR1_3.pdb
+C:\Den1zer\College\OOP24\Project\Stock project\bin\Debug\LR1_3.exe.config
+C:\Den1zer\College\OOP24\Project\Stock project\bin\Debug\LR1_3.exe
+C:\Den1zer\College\OOP24\Project\Stock project\bin\Debug\LR1_3.pdb
+C:\Den1zer\College\OOP24\Project\Patterns4\bin\Debug\LR1_3.exe.config
+C:\Den1zer\College\OOP24\Project\Patterns4\bin\Debug\LR1_3.exe
+C:\Den1zer\College\OOP24\Project\Patterns4\bin\Debug\LR1_3.pdb
+C:\Den1zer\College\OOP24\Project\Patterns4\obj\Debug\LR1_3.csproj.AssemblyReference.cache
+C:\Den1zer\College\OOP24\Project\Patterns4\obj\Debug\LR1_3.Form1.resources
+C:\Den1zer\College\OOP24\Project\Patterns4\obj\Debug\LR1_3.Properties.Resources.resources
+C:\Den1zer\College\OOP24\Project\Patterns4\obj\Debug\LR1_3.csproj.GenerateResource.cache
+C:\Den1zer\College\OOP24\Project\Patterns4\obj\Debug\LR1_3.csproj.CoreCompileInputs.cache
+C:\Den1zer\College\OOP24\Project\Patterns4\obj\Debug\LR1_3.exe
+C:\Den1zer\College\OOP24\Project\Patterns4\obj\Debug\LR1_3.pdb
+C:\Den1zer\College\Моделювання та аналіз\Patterns4\obj\Debug\LR1_3.csproj.AssemblyReference.cache
+C:\Den1zer\College\Моделювання та аналіз\Patterns4\obj\Debug\LR1_3.Form1.resources
+C:\Den1zer\College\Моделювання та аналіз\Patterns4\obj\Debug\LR1_3.Properties.Resources.resources
+C:\Den1zer\College\Моделювання та аналіз\Patterns4\obj\Debug\LR1_3.csproj.GenerateResource.cache
+C:\Den1zer\College\Моделювання та аналіз\Patterns4\obj\Debug\LR1_3.csproj.CoreCompileInputs.cache
+C:\Den1zer\College\Моделювання та аналіз\Patterns4\obj\Debug\LR1_3.exe
+C:\Den1zer\College\Моделювання та аналіз\Patterns4\obj\Debug\LR1_3.pdb
